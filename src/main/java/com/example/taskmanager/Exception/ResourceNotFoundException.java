@@ -1,4 +1,4 @@
-package com.example.taskmanager.ResourceNotFoundException;
+package com.example.taskmanager.Exception;
 
 public class ResourceNotFoundException {
     
